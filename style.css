@@ -1,0 +1,26 @@
+body {
+	color:#E3CCFB;
+	font-size: 20px;
+	font-family: georgia;
+	background-color: #8D47D2;
+	margin: 0;
+	text-align:center;
+}
+.headimg {
+	width:300px;
+	height:300px;
+	object-fit:cover;
+	border-radius:50%;
+}
+button {
+    font-weight: bold;
+    font-size: 16px;
+    font-family:georgia;
+    color: deeppink;
+    background-color:rebeccapurple;
+    display: block; 
+    margin: 40px auto;
+    padding: 10px 200px;
+    border: solid 2px lightpink;
+    border-radius: 50px;
+}
